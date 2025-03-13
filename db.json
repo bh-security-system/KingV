@@ -1,10 +1,10 @@
 {
   "address": [
     {
-      "post": "https://app.dorna20.com//post.php",
-      "get": "https://app.dorna20.com/get.php",
-      "server": "https://app.dorna20.com/server_none.png",
-      "user": "https://app.dorna20.com/user_ban.png"
+      "post": "https://app.enzovpn.shop/postN.php",
+      "get": "https://app.enzovpn.shop/getN.php",
+      "server": "https://app.enzovpn.shop/server_none.png",
+      "user": "https://app.enzovpn.shop/user_ban.png"
     }
   ]
 }
