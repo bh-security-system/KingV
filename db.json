@@ -1,0 +1,10 @@
+{
+  "address": [
+    {
+      "post": "https://app.dorna20.com//post.php",
+      "get": "https://app.dorna20.com/get.php",
+      "server": "https://app.dorna20.com/server_none.png",
+      "user": "https://app.dorna20.com/user_ban.png"
+    }
+  ]
+}
